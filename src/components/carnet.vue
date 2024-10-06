@@ -115,6 +115,7 @@ img {
 aside div {
     display: flex;
     border-radius: 10px;
+    font-size: 11px;
 }
 
 aside>img {
