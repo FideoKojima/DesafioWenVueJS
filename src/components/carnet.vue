@@ -120,13 +120,13 @@ aside div {
 
 aside>img {
     margin-top: 15px;
-    width: 100%;
+    width: 110%;
 }
 
 aside p {
     text-align: center;
-    font-size: 12px;
-    font-weight: bold;
+    font-size: 15px;
+    font-weight: bolder;
     border-radius: 20px;
 }
 
