@@ -22,10 +22,10 @@ export default {
     <div class="carnet">
         <aside>
             <div>
-                <span>CEDULA DE INDENTIDAD</span>
-                <img width="40" src="./chile_bandera.png" alt="" />
+                <span>CEDULA DE IDENTIDAD</span>
+                <img width="40" src="/chile_bandera.png" alt="" />
             </div>
-            <img src="./foto_elon.jpg" alt="" />
+            <img src="/foto_elon.jpg" alt="" />
             <p>{{ RUN }}</p>
         </aside>
         <main>
