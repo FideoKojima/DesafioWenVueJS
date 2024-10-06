@@ -3,7 +3,7 @@ export default {
     name: "carnet",
     data() {
         return {
-            RUN: "22.222.222-2",
+            RUN: "RUN 22.222.222-2",
             apellidos: "MUSK",
             nombres: "ELON REEVE",
             nacionalidad: "SUDAFRICANO",
