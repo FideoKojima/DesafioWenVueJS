@@ -60,7 +60,6 @@ Para cambiar la información del carnet, edita las variables en el objeto `data(
 
 - 📂 `src/`
   - 📄 `App.vue`: El componente principal que contiene la lógica y el diseño del carnet.
-  - 📂 `assets/`: Directorio para imágenes y otros recursos estáticos.
 - 📂 `public/`: Directorio para archivos estáticos que se sirven directamente.
 
 ## 🤝 Contribución
