@@ -152,7 +152,7 @@ main header p {
 }
 
 main header span {
-    font-size: 8px;
+    font-size: 9px;
     color: #399be1;
 }
 
