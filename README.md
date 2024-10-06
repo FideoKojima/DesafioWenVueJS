@@ -1,6 +1,7 @@
 # 🆔 Proyecto Desafio Web Vue JS
 
 [Enlace Directo](https://desafio-wen-vue-js.vercel.app/)
+<a href="https://desafio-wen-vue-js.vercel.app/" target="_blank">Enlace Directo</a>
 
 Este proyecto es una aplicación Vue.js que muestra un carnet de identidad chileno utilizando interpolación de variables. Fue creado como parte de un desafío para practicar los conceptos básicos de Vue.js.
 
@@ -66,10 +67,6 @@ Para cambiar la información del carnet, edita las variables en el objeto `data(
 ## 🤝 Contribución
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir qué te gustaría cambiar.
-
-## 📄 Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## 📞 Contacto
 
