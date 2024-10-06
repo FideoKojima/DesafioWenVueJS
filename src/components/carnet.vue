@@ -12,7 +12,7 @@ export default {
             numeroDocumento: "222.2222.222",
             fechaEmision: "01 ENE 2025",
             fechaVencimiento: "01 ENE 2030",
-            FIRMA: "holasoyelon",
+            FIRMA: "X Æ A-XII",
         }
     }
 }
